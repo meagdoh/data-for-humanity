@@ -1,5 +1,22 @@
 # data-and-friends
 
+
+## Welcome!
+
+Hey! We are happy you stopped by. This is the Data + Friends project page where we are building an offline storytelling game to empower advocacy practitioners to learn 'number crunching'. Take a look around, jump in on a `first issue`, and leave your comments and questions.
+
+## What are We Doing?
+Have you ever said or heard someone say "Oh, I don't do numbers. That's [insert someone else's name] job down the hall"? As data continues to grow into all the work we do, it's time to push the non-numbers people on to a path to feeling comfortable with numbers.
+
+We are researching and prototyping a paper-based game designed to help anyone use data. As of March 2018, we are in the discovery phase of this project with a goal to develop a prototype by early May.
+
+## Who Are We?
+
+## How to Get Involved
+Share your knowledge! There's *a lot* of work happening in data literacy and we want to know what else is out there.
+
+Check out the Project Roadmap to learn more about our upcoming milestones
+
 ## Project Roadmap
 * Week 1 Feb 20/2 - Intro
 * Week 2 Feb 27/28 - Vision Statement/Open Canvas
