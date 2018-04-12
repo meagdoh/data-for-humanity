@@ -34,3 +34,6 @@ Check out the Project Roadmap to learn more about our upcoming milestones
 * Week 12 May 8/9  - Mozilla Global Sprint
 * Week 13 May 15/16  - Final mentor meeting
 * Week 14 May 22/23 - Final Demo
+
+## Code of Conduct
+This project follows the Mozilla Community Participation Guidelines. Read the full Code of Conduct [here](https://www.mozilla.org/en-US/about/governance/policies/participation/)
