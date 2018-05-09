@@ -17,11 +17,11 @@ We are researching and prototyping a paper-based game designed to help anyone us
 Check out [this interview](https://medium.com/read-write-participate/achieving-data-literacy-through-fun-and-games-15375156ebd5) with Mozilla's Chad Sansing on the story of Data + Friends
 
 ## How to Get Involved
-Got 1 minute? Say hello on [Gitter](https://gitter.im/data-and-friends/Lobby) and share your thoughts on #dataliteracy and #gamedesign
+Got 1 minute? Say hello on [Gitter](https://gitter.im/data-and-friends/Lobby) :wave: and share your thoughts on #dataliteracy and #gamedesign
 
-Got 2 minutes? Answer [a short survey](https://goo.gl/forms/joWeoEmGs6HBjsO32) about you and your interest in #data-and-friends
+Got 2 minutes? Answer [a short survey](https://goo.gl/forms/joWeoEmGs6HBjsO32) :clipboard: about you and your interest in #data-and-friends
 
-Got 5 minutes? Add [some content ideas](https://goo.gl/forms/XaLUxH2EbPte9ncq2) Any 1-2 sentences that includes facts and figures
+Got 5 minutes? Add [some content ideas](https://goo.gl/forms/XaLUxH2EbPte9ncq2) :bulb: Any 1-2 sentences that includes facts and figures
 
 Got longer? There's plenty to do! Head over to [new to-do's](https://github.com/meagdoh/data-and-friends/issues?q=is%3Aissue+is%3Aopen+label%3Amozsprint) tagged under `mozsprint`
 
