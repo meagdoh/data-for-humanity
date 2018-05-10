@@ -16,7 +16,7 @@ For an introduction to this project, [read this interview](https://medium.com/re
 * Whoever has the most cards at the end wins!
 
 
-<h2> Example round </h2>
+<h2> example round of play </h2>
 "Tell me a story about [registered dogs in NYC]..."
 
 Using the data set and available graphs from [databasic.io](https://databasic.io/en/wtfcsv/results/59cdd3907088b42cdeca5fbf), here are a few responses:
