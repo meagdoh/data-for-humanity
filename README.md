@@ -2,6 +2,9 @@
 
 [![Join the chat at https://gitter.im/data-and-friends/Lobby](https://badges.gitter.im/data-and-friends/Lobby.svg)](https://gitter.im/data-and-friends/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+<p align="left">
+<img src="https://github.com/meagdoh/data-and-friends/blob/master/images/banner.jpg" width="500"/>
+</p>
 
 ## Welcome!
 
