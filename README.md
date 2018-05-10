@@ -15,6 +15,13 @@ Have you ever said or heard someone say "Oh, I don't do numbers. That's [insert 
 
 We are researching and prototyping a paper-based game designed to help anyone use data.
 
+:tada::tada::tada: Currently, we are participating in Mozilla's Global Sprint!! :tada::tada::tada:
+
+Our goals: 
+> * [draft game rules](https://github.com/meagdoh/data-and-friends/issues/25)
+> * [develop content](https://github.com/meagdoh/data-and-friends/issues/21)
+> * [sketch a splash page](https://github.com/meagdoh/data-and-friends/issues/32) 
+
 ## Who Are We?
 
 Check out [this interview](https://medium.com/read-write-participate/achieving-data-literacy-through-fun-and-games-15375156ebd5) with Mozilla's Chad Sansing on the story of Data + Friends (published May 3, 2018)
